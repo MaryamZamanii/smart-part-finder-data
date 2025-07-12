@@ -3,22 +3,22 @@
         "part_number": "CA2KN22G7",
         "option_1": "(2)CA2SK20G7 AND CA2SK11G7 ",
         "option_2":"",
-        "option_3": NaN,
+        "option_3":"",
         "comment": "TO MATCH THE NUMBER OF CONTACTS AVAILABLE."
     },
     {
         "part_number": "CA2KN4OG7",
         "option_1": "(2)CA2SK2011G7",
-        "option_2": NaN,
+        "option_2":"",
         "option_3": "RR3PCAC120",
         "comment": "(2)CA2SK2011G7 IF 4POLE 4NO REQUIRED"
     },
     {
         "part_number": "170R401",
-        "option_1": NaN,
-        "option_2": NaN,
+        "option_1":"",
+        "option_2":"",
         "option_3": "170R601",
-        "comment": NaN
+        "comment": ""
     },
     {
         "part_number": "170R601",
